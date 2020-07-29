@@ -1,7 +1,7 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=/Users/arturo/Development/flutter
-FLUTTER_APPLICATION_PATH=/Users/arturo/AndroidStudioProjects/mi_card_flutterClase03
-FLUTTER_TARGET=/Users/arturo/AndroidStudioProjects/mi_card_flutterClase03/lib/main.dart
+FLUTTER_APPLICATION_PATH=/Users/arturo/Documents/GitHub/APPS_Clase03y04_MiCard
+FLUTTER_TARGET=/Users/arturo/Documents/GitHub/APPS_Clase03y04_MiCard/lib/main.dart
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build/ios
 OTHER_LDFLAGS=$(inherited) -framework Flutter
